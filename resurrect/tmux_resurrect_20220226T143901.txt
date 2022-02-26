@@ -1,0 +1,15 @@
+pane	0	1	1	:*Z	1	:/home/akashiyachime	1	zsh	:
+pane	0	1	1	:*Z	2	:/home/akashiyachime	0	zsh	:
+pane	0	1	1	:*Z	3	:/home/akashiyachime	0	zsh	:
+pane	1	1	1	:*	1	:/home/akashiyachime	1	zsh	:
+pane	11	1	1	:*	1	:/home/akashiyachime	1	zsh	:
+pane	12	1	0	:-	1	:/home/akashiyachime	1	zsh	:
+pane	12	2	1	:*	1	:/home/akashiyachime	1	zsh	:
+pane	13	1	1	:*	1	:/home/akashiyachime	1	zsh	:
+window	0	1	:[tmux]	1	:*Z	453e,135x34,0,0{80x34,0,0,0,54x34,81,0[54x16,81,0,1,54x17,81,17,2]}	:
+window	1	1	:zsh	1	:*	bbc1,135x34,0,0,4	:
+window	11	1	:[tmux]	1	:*	5e13,135x34,0,0,14	:
+window	12	1	:zsh	0	:-	5e14,135x34,0,0,15	:
+window	12	2	:zsh	1	:*	5e15,135x34,0,0,16	:
+window	13	1	:zsh	1	:*	5e16,135x34,0,0,17	:
+state	13	12
